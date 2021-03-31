@@ -33,7 +33,7 @@ public class VsmApplication implements CommandLineRunner {
 //		private Address address;
 		// TODO Auto-generated method stub
 		List<User> usersList = new ArrayList<User>();
-		User u1 = new User(10, "Tejas", "a@mail.com", "a123", "123", "customer",
+		User u1 = new User(10, "Ajit", "a@mail.com", "a123", "123", "customer",
 				new Address(1, "602", "parkhe vasti", "susgaon", "pune", "411031"));
 		User u2 = new User(20, "Shubham", "b@mail.com", "b123", "12342", "admin",
 				new Address(2, "602", "parkhe vasti", "hadapsar", "pune", "411031"));
